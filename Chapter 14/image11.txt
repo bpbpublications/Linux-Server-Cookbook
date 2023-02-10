@@ -1,0 +1,44 @@
+Using Catalog "MyCatalog"
+
+Run Restore job
+JobName :
+Bootstrap:
+Where:
+
+Replace:
+FileSet:
+
+Backup Client:
+Restore Client:
+Storage:
+
+When:
+
+Catalog:
+Priority:
+Plugin Options:
+
+RestoreFiles
+/opt/bacula/working/bacula-dir.restore.3.bsr
+/opt/bacula/archive/bacula-restores
+Always
+
+Full Set
+
+rhel-fd
+
+rhel-fd
+
+bacula-sd
+
+2022-11-12 20:27:37
+
+MyCatalog
+
+10
+
+*None*
+
+0K to run? (yes/mod/no): yes
+Job queued. JobId=14
+

@@ -1,0 +1,2 @@
+root@bacula:~# bconsole
+*status director

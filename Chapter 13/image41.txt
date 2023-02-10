@@ -1,0 +1,1 @@
+root@ubuntu:~# docker history ubuntuapache2:0.1

@@ -1,0 +1,1 @@
+[root@server2 ~]# lsblk

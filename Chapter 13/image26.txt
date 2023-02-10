@@ -1,0 +1,3 @@
+root@ubuntu:~# docker ps -f name=mywebserver3
+root@ubuntu:~# docker unpause mywebserver3
+root@ubuntu:~# docker ps -f name=mywebserver3

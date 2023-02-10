@@ -1,0 +1,1 @@
+[root@server2 ~]# hdparm -tT /dev/nvme0n1

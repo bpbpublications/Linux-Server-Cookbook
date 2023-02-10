@@ -1,0 +1,4 @@
+root@ubuntu:~# cd examples/
+root@ubuntu:~/examples# pwd
+root@ubuntu:~/examples# logout
+agonzalez@ubuntu:~/examples$ pwd

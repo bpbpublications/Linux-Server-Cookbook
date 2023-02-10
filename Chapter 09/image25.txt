@@ -1,0 +1,1 @@
+[root@rhel ~]# nmap -sV --allports 192.168.122.43

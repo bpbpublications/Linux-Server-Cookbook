@@ -1,0 +1,1 @@
+[root@rhel ~]# mount -t nfs4 192.168.122.43:/ /mnt

@@ -1,0 +1,22 @@
+MKDIR(1) User Commands MKDIR(1
+
+NAME
+mkdir - make directories
+SYNOPSIS
+mkdir [OPTION]... DIRECTORY...
+DESCRIPTION
+Create the DIRECTORY(ies), if they do not already exist.
+Mandatory arguments to long options are mandatory for short options
+too.
+-m, --mode=MODE
+set file mode (as in chmod), not a=rwx - umask
+-p, --parents
+no error if existing, make parent directories as needed
+-v, --verbose
+print a message for each created directory
+-Z set SELinux security context of each created directory to the
+default type
+Manual mkdir(1) 1 hel
+
+       
+

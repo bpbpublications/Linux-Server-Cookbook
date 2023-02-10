@@ -1,0 +1,4 @@
+[root@rhel ~]# nmcli connection add type bridge ifname bridge0 con-name bridge0
+[root@rhel ~]# nmcli con add type bridge-slave ifname enp7s0 master bridge0
+[root@rhel ~]# nmcli con up bridge-slave-enp7s0
+[root@rhel ~]# nmcli con up bridge0

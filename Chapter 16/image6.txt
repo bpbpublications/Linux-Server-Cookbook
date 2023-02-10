@@ -1,0 +1,1 @@
+[stack@undercloud ~]$ openstack --os-cloud development service list

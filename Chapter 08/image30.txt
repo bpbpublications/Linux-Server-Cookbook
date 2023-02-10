@@ -1,0 +1,1 @@
+root@ubuntu:~# tcpdump -i bridge0 -n -e -c 1

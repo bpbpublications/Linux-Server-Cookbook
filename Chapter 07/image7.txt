@@ -1,0 +1,1 @@
+root@lab:~# ip --color -6 address show dev eth0

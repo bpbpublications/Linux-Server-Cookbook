@@ -1,0 +1,1 @@
+[root@rhel ~]# dnf provides /etc/sensors3.conf

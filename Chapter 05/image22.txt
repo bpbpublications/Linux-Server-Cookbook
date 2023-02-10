@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ cat /etc/legal
+agonzalez@ubuntu:~$ cat -n /etc/legal

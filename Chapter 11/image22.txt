@@ -1,0 +1,2 @@
+MariaDB [(none)]> USE school;
+MariaDB [school]> CREATE TABLE students (id INTEGER PRIMARY KEY, name CHAR(20), lastname CHAR(50));

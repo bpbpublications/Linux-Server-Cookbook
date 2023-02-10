@@ -1,0 +1,3 @@
+root@ubuntu:~# passwd testuser
+root@ubuntu:~# passwd -l testuser
+root@ubuntu:~# passwd -S testuser

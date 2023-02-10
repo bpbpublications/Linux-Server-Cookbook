@@ -1,0 +1,1 @@
+[stack@client ~]$ openstack router create router private -c id -c status

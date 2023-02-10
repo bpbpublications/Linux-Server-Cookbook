@@ -1,0 +1,1 @@
+agonzalez@ansible:~/playbooks$ ansible-playbook --list-tasks playbook1.yaml

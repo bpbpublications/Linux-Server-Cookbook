@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ read -p "Introduce username: " USERNAME
+agonzalez@ubuntu:~$ echo $USERNAME

@@ -1,0 +1,4 @@
+root@ubuntu:~# docker images | head -2
+root@ubuntu:~# docker run -dti -p 8888:80 ubuntuapache2:0.1
+root@ubuntu:~# curl http://localhost:8888/
+root@ubuntu:~# curl http://localhost:8888/test.html

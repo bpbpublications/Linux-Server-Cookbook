@@ -1,0 +1,1 @@
+[root@server ~]# skopeo copy docker://docker.io/ubuntu:latest docker://registry.example.com:5000/ubuntu:latest --dest-tls-verify=false

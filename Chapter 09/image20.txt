@@ -1,0 +1,2 @@
+[agonzalez@server ~]$ ssh -X agonzalez@192.168.122.43
+agonzalez@ubuntu:~$ xeyes

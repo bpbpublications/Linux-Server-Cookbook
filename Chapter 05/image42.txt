@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ grep -E -e "ro{2}t" -e "pe{1,2}n" text

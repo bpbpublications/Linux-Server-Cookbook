@@ -1,0 +1,3 @@
+root@ubuntu:~# echo ".tables" | sqlite3 school.db
+root@ubuntu:~# echo "SELECT * from students;" | sqlite3 --table school.db
+root@ubuntu:~# echo "SELECT * from students;" | sqlite3 --json school.db

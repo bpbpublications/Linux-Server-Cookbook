@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ ./example6.py
+agonzalez@ubuntu:~$ echo $?

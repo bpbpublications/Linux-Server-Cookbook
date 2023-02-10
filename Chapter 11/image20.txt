@@ -1,0 +1,3 @@
+MariaDB [(none)]> SELECT USER();
+MariaDB [(none)]> CREATE DATABASE school;
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON school.* to agonzalez@192.168.122.226;

@@ -1,0 +1,3 @@
+[root@rhel ~]# getsebool httpd can_network_connect
+[root@rhel ~]# setsebool httpd can_network_connect on
+[root@rhel ~]# getsebool httpd can_network_connect

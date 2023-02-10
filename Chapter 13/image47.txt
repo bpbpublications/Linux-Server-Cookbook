@@ -1,0 +1,4 @@
+[root@rhel ~]# docker tag linuxservercb/ubuntuapache registry.example.com:5000/linuxserverch/ubuntuapache:latest
+[root@rhel ~1# echo '{ "insecure-registries":["registry.example.com:5000"] }' > | /etc/docker/daemon. json
+[root@rhel ~]# systemctl restart docker
+[root@rhel ~1# docker push registry.example.com:5000/1inuxservercb/ubuntuapache

@@ -1,0 +1,8 @@
+root@ubuntu:~# mkdir examples
+root@ubuntu:~# cd examples/
+root@ubuntu:~/examples# mkdir -v example1
+root@ubuntu:~/examples# /usr/bin/mkdir -v example2
+root@ubuntu:~/examples# ../../usr/bin/mkdir -v /root/examples/example3
+root@ubuntu:~/examples# ls
+root@ubuntu:~/examples# ls -l
+root@ubuntu:~/examples# ls -l --all

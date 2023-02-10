@@ -1,0 +1,4 @@
+root@ubuntu:~# sqlite3 school.db
+sqlite> CREATE TABLE students (id INTEGER PRIMARY KEY, name CHAR(20), lastname CHAR(50));
+sqlite> INSERT INTO students VALUES(1, "Alberto", "Gonzalez");
+sqlite> SELECT * from students;

@@ -1,0 +1,2 @@
+root@ubuntu:~# uptime
+root@ubuntu:~# uptime -p

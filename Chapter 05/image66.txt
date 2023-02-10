@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ sleep 120
+agonzalez@ubuntu:~$ jobs
+agonzalez@ubuntu:~$ bg
+agonzalez@ubuntu:~$ jobs

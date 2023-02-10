@@ -1,0 +1,5 @@
+root@ubuntu:~/examples# pwd
+root@ubuntu:~/examples# pwd >pwd1.txt
+root@ubuntu:~/examples# cat pwd1.txt
+root@ubuntu:~/examples# pwd 1>pwd2.txt
+root@ubuntu:~/examples# cat pwd2.txt

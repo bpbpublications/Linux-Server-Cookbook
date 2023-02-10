@@ -1,0 +1,2 @@
+root@ubuntu:~# ip --color route get 8.8.8.8
+root@ubuntu:~# ip --color route get 192.168.122.241

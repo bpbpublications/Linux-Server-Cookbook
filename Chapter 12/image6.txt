@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ ./example6.sh
+agonzalez@ubuntu:~$ echo $?
+agonzalez@ubuntu:~$ ./example6.sh
+agonzalez@ubuntu:~$ echo $?

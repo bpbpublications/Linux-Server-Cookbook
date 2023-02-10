@@ -1,0 +1,2 @@
+root@ubuntu:~# docker kill mywebserver3
+root@ubuntu:~# docker ps -f name=mywebserver3 -a

@@ -1,0 +1,1 @@
+[root@rhel ~]# smbclient //192.168.122.43/storage/ -U agonzalez%Start123

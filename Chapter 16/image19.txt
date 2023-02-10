@@ -1,0 +1,1 @@
+[stack@client ~]$ openstack server create myfirstvm --network overlay network --flavor ml.small --image debian10 --key-name mykey --security-group allowssh --wait

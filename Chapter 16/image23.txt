@@ -1,0 +1,1 @@
+debian@myfirstvm:~$ ip a s dev eth0

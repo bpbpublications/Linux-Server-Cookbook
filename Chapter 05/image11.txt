@@ -1,0 +1,2 @@
+root@ubuntu:~# find /usr/bin/ -perm /4000
+root@ubuntu:~# find /usr/bin/ -perm /2000

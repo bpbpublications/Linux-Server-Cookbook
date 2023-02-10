@@ -1,0 +1,3 @@
+[stack@client ~]$ openstack floating ip create external -c floating ip_address
+[stack@client ~]$ openstack server add floating ip myfirstvm 10.0.0.225
+[stack@client ~]$ openstack server list -c Name -c Status -c Networks

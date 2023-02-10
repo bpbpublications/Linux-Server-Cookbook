@@ -1,0 +1,4 @@
+root@ubuntu:~# ip link add name bridge0 type bridge
+root@ubuntu:~# ip link set bridge0 up
+root@ubuntu:~# ip link set enp7s0 master bridge0
+root@ubuntu:~# bridge link

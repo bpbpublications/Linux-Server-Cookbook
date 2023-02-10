@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ ls example[1234].txt
+agonzalez@ubuntu:~$ ls example[5-9].txt

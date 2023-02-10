@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ echo "UXXER CASE LINE" | tr '[A-Z]' '[a-z]' | tr 'x' 'p'

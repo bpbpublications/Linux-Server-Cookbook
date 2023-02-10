@@ -1,0 +1,1 @@
+root@ubuntu:~# docker run --name mydeb debian cat /etc/debian_version

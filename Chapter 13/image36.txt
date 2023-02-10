@@ -1,0 +1,4 @@
+root@ubuntu:~# docker volume create myweb
+root@ubuntu:~# echo "From vol" > /var/lib/docker/volumes/myweb/_data/index.html
+root@ubuntu:~# docker run -dtiv myweb:/usr/local/apache2/htdocs -p 8082:80 httpd
+root@ubuntu:~# curl -s http://localhost:8082

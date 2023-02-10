@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ ansible linux -m command -a "uname -r"
+agonzalez@ubuntu:~$ ansible rhel -m copy -a "src=/etc/hosts dest=/tmp/hosts"

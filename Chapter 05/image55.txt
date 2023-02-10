@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ cat names.txt
+agonzalez@ubuntu:~$ cat lastname.txt
+agonzalez@ubuntu:~$ join names.txt lastname.txt

@@ -1,0 +1,3 @@
+[root@rhel ~]# semanage port -l |grep ^http_port_t
+[root@rhel ~]# semanage port -a -t http_port_t -p tcp 3333
+[root@rhel ~]# semanage port -l |grep ^http_port_t

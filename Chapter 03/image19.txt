@@ -1,0 +1,4 @@
+root@ubuntu:~# read HOSTNAME
+root@ubuntu:~# echo $HOSTNAME
+root@ubuntu:~# read HOSTNAME </etc/hostname
+root@ubuntu:~# echo $HOSTNAME

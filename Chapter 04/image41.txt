@@ -1,0 +1,1 @@
+root@ubuntu:~# dpkg -i lftp 4.9.2-1build1_amd64.deb

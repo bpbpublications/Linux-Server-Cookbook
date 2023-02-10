@@ -1,0 +1,2 @@
+root@ubuntu:~# quotacheck -ugm /
+root@ubuntu:~# ls -l /aquota*

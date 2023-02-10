@@ -1,0 +1,5 @@
+root@ubuntu:~# echo "agonzalez hard nproc 10" >> /etc/security/limits.conf
+root@ubuntu:~# su - agonzalez
+agonzalez@ubuntu:~$ ulimit -u
+agonzalez@ubuntu:~$ ulimit -u 5
+agonzalez@ubuntu:~$ ulimit -u

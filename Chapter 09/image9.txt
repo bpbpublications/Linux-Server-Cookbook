@@ -1,0 +1,5 @@
+root@ubuntu:~# dig @localhost SOA example.com +short
+root@ubuntu:~# dig @localhost NS example.com +short
+root@ubuntu:~# dig @localhost MX example.com +short
+root@ubuntu:~# dig @localhost CNAME web.example.com +short
+root@ubuntu:~# dig @localhost A web.example.com +short

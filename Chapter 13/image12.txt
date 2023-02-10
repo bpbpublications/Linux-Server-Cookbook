@@ -1,0 +1,5 @@
+root@ubuntu:~# docker logs -f 0875fc67319c4db3b
+Sun Oct 30 17:28:44 UTC 2022
+Sun Oct 30 17:28:49 UTC 2022
+Sun Oct 30 17:28:54 UTC 2022
+Sun Oct 30 17:28:59 UTC 2022

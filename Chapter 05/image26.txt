@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ echo "My shell is $SHELL"
+agonzalez@ubuntu:~$ echo 'My shell is $SHELL'

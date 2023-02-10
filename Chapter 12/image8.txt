@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ chmod u+x example1.py
+agonzalez@ubuntu:~$ ./example1.py

@@ -1,0 +1,2 @@
+root@ubuntu:~# docker run --publish-all --name mywebserver2 -dti httpd
+root@ubuntu:~# docker ps -l

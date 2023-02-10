@@ -1,0 +1,3 @@
+root@ubuntu:~# groupadd writers
+root@ubuntu:~# gpasswd -A agonzalez writers
+root@ubuntu:~# gpasswd writers

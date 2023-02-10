@@ -1,0 +1,5 @@
+root@ubuntu:~# mkdir /web/
+root@ubuntu:~# echo "File stored in the host" > /web/index.html
+root@ubuntu:~# docker run -dtiv /web:/usr/local/apache2/htdocs -p 8081:80 httpd
+root@ubuntu:~# docker inspect -f '{{ .Mounts }}' 4ef4b6434edlbf2
+root@ubuntu:~# curl -s http://localhost:8081

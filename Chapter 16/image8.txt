@@ -1,0 +1,2 @@
+[stack@undercloud ~]$ export OS_CLOUD=development
+[stack@undercloud ~]$ openstack image create --container-format bare --disk-format qcow2 --file debian-10-openstack-amd64.qcow2 debian10

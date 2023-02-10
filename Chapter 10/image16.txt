@@ -1,0 +1,2 @@
+[root@rhel ~]# lftp 192.168.122.43 -u agonzalez,Start123 -e "get notes.txt;quit"
+[root@rhel ~]# ls -l notes.txt

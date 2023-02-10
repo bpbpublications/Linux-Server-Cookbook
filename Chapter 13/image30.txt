@@ -1,0 +1,3 @@
+root@ubuntu:~# docker rename mywebserver web
+root@ubuntu:~# docker exec web grep “Listen /usr/local/apache2/conf/httpd.conf
+Listen 80

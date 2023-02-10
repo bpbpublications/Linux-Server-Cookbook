@@ -1,0 +1,2 @@
+[root@rhel ~]# lftp 192.168.122.43 -u agonzalez,Start123
+lftp agonzalez@192.168.122.43:~> ls

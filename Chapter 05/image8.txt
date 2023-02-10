@@ -1,0 +1,5 @@
+agonzalez@ubuntu:~$ ls -ld specialdir/ regulardir/
+agonzalez@ubuntu:~$ touch regulardir/file
+agonzalez@ubuntu:~$ ls -l regulardir/file
+agonzalez@ubuntu:~$ touch specialdir/file
+agonzalez@ubuntu:~$ ls -l specialdir/file

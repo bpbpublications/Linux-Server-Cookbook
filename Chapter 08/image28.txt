@@ -1,0 +1,2 @@
+root@ubuntu:~# aa-complain /usr/bin/tcpdump
+root@ubuntu:~# tcpdump -r ~/.test.cap | head -1

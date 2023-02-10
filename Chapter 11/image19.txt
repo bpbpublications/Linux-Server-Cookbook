@@ -1,0 +1,1 @@
+MariaDB [(none)]> SHOW DATABASES;

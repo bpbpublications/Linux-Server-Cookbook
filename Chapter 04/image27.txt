@@ -1,0 +1,1 @@
+[root@rhel ~]# rpm -Uhv vim-minimal-8.2.2637-16.el9_0.2.x86_64.rpm

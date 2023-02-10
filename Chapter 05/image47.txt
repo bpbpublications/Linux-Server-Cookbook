@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ awk -F":" '/bash$/{print $1}' /etc/passwd | sort

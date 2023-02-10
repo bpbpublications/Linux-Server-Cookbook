@@ -1,0 +1,4 @@
+[root@rhel ~]# firewall-cmd --list-all |grep -i masquerade
+[root@rhel ~]# firewall-cmd --add-masquerade --permanent
+[root@rhel ~]# firewall-cmd --reload
+[root@rhel ~]# firewall-cmd --list-all |grep -i masquerade

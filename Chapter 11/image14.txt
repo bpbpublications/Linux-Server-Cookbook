@@ -1,0 +1,1 @@
+root@ubuntu:~# mariadb-admin password Start123

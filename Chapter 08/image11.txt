@@ -1,0 +1,2 @@
+root@ubuntu:~# ufw allow 22
+root@ubuntu:~# ufw allow proto tcp from 192.168.122.145 to any port 22

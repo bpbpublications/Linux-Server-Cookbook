@@ -1,0 +1,1 @@
+root@ubuntu:/etc/netplan# netplan try

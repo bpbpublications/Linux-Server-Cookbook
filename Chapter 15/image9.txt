@@ -1,0 +1,4 @@
+root@ubuntu:~/cloudfare# dig +short iac.mucloma.com
+root@ubuntu:~/cloudfare# curl iac.mucloma.com
+root@ubuntu:~/cloudfare# curl iac.mucloma.com
+root@ubuntu:~/cloudfare# curl iac.mucloma.com

@@ -1,0 +1,2 @@
+MariaDB [school]> INSERT INTO students VALUES(1, "Alberto", "Gonzalez");
+MariaDB [school]> INSERT INTO students VALUES(1, "John", "Doe");

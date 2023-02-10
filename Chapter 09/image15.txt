@@ -1,0 +1,1 @@
+root@ubuntu:~# nslookup -type=NS example.com localhost

@@ -1,0 +1,1 @@
+root@ubuntu:~# ls -ld /etc/{,passwd,shadow} /dev/{vda,console} /run/snapd.socket

@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ 1s -l example.txt
+agonzalez@ubuntu:~$ groups
+agonzalez@ubuntu:~$ chown :root example.txt
+agonzalez@ubuntu:~$ chown -v :sudo example.txt

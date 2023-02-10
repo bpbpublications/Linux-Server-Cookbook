@@ -1,0 +1,1 @@
+[root@server ~]# sar -u 2 5

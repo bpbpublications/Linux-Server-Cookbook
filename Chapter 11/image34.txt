@@ -1,0 +1,1 @@
+[root@rhel ~]# mongosh --quiet mongodb://192.168.122.43:27017/

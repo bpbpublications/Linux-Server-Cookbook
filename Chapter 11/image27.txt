@@ -1,0 +1,5 @@
+[agonzalez@rhel ~]$ mariadb-dump -pP@ssw0rd -h192.168.122.43 school > school.sql
+[agonzalez@rhel ~]$ echo "DROP TABLE students;" | mariadb -p -h192.168.122.43 school
+[agonzalez@rhel ~]$ echo "SHOW TABLES;" | mariadb -p -h192.168.122.43 school
+[agonzalez@rhel ~]$ mariadb -pP@ssw0rd -h192.168.122.43 school < school.sql
+[agonzalez@rhel ~]$ echo "SHOW TABLES;" | mariadb -p -h192.168.122.43 school

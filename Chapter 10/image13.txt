@@ -1,0 +1,2 @@
+[root@rhel ~]# mount -t cifs -o rw,username=agonzalez,password=Start123 //192.168.122.43/storage/ /exported
+[root@rhel ~]# mount |grep "/exported"

@@ -1,0 +1,2 @@
+   
+agonzalez@ubuntu:~$ grep ^.....:x: /etc/passwd

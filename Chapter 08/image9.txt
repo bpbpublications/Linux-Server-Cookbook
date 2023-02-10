@@ -1,0 +1,2 @@
+[root@rhel ~]# firewall-cmd --add-port=443/tcp
+[root@rhel ~]# firewall-cmd --runtime-to-permanent

@@ -1,0 +1,3 @@
+[root@rhel ~]# firewall-cmd --get-zones
+[root@rhel ~]# firewall-cmd --get-active-zones
+[root@rhel ~]# firewall-cmd --get-default-zone

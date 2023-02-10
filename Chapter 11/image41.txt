@@ -1,0 +1,2 @@
+school> db.students.deleteOne({name: 'Jane'})
+school> db.students.find({name: 'Jane'}).count()

@@ -1,0 +1,1 @@
+root@ubuntu ~# stat /etc/passwd

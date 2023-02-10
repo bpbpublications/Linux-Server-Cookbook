@@ -1,0 +1,3 @@
+[root@rhel ~]# getenforce
+[root@rhel ~]# setenforce Enforcing
+[root@rhel ~]# sestatus

@@ -1,0 +1,2 @@
+root@ubuntu:~# tcpdump -r ~/.test.cap
+root@ubuntu:~# dmesg | tail -1

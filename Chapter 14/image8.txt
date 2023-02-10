@@ -1,0 +1,1 @@
+root@bacula:~# echo "status client=rhel-fd" | bconsole |tail -6

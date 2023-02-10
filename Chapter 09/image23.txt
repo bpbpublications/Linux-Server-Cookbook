@@ -1,0 +1,1 @@
+root@ubuntu:~# ssh agonzalez@192.168.122.226 "cat ~/.ssh/authorized_keys"

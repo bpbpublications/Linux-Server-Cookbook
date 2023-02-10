@@ -1,0 +1,2 @@
+root@ubuntu:~# ufw app list
+root@ubuntu:~# ufw app info OpenSSH

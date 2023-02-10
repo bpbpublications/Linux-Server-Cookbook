@@ -1,0 +1,3 @@
+root@ubuntu:~# ovs-vsctl add-br bridge0
+root@ubuntu:~# ovs-vsctl add-port bridge0 enp7s0
+root@ubuntu:~# ovs-vsctl show

@@ -1,0 +1,2 @@
+[root@rhel ~]# dnf download dmidecode
+[root@rhel ~]# 1s -l dmidecode-3.3-7.el9.x86_64.rpm

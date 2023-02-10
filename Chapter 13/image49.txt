@@ -1,0 +1,1 @@
+[root@server buildahexample]# buildah build -t ubuntuapache2:0.2 .

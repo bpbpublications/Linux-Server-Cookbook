@@ -1,0 +1,4 @@
+[root@rhel ~]# nmcli c add type ether con-name "test" ifname enp7s0 ip4 "10.10.0.22/24"
+[root@rhel ~]# nmcli connection
+[root@rhel ~]# nmcli c modify test ip4 "10.10.10.23/24"
+[root@rhel ~]# nmcli connection delete test

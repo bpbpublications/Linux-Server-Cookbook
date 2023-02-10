@@ -1,0 +1,2 @@
+root@ubuntu:~# systemctl start mongod
+root@ubuntu:~# systemctl status mongod

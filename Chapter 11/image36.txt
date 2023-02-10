@@ -1,0 +1,2 @@
+test> use school
+school> db.students.insertOne({ name: "Alberto", lastname: "Gonzalez"})

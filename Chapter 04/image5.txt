@@ -1,0 +1,2 @@
+root@ubuntu:~# usermod -G syslog testuser2
+root@ubuntu:~# id testuser2

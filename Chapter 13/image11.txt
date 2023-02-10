@@ -1,0 +1,2 @@
+root@ubuntu:~# docker run -dti debian /bin/sh -c "while true; do date; sleep 5;done"
+0875fc67319c4db3b795bb936T0663c7d8a5922229d07b897a3fc4d0a88662fb

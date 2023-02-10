@@ -1,0 +1,2 @@
+[root@rhel ~]# nmcli connection
+[root@rhel ~]# nmcli connection show enp1s0 |grep IP4.

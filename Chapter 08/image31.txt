@@ -1,0 +1,2 @@
+root@ubuntu:~# tcpdump -1 bridge0 e -c 1 -w example.cap
+root@ubuntu:~# tcpdump -r example.cap

@@ -1,0 +1,3 @@
+[stack@client ~]$ openstack stack output list firststack
+[stack@client ~]$ openstack stack output show firststack instance_external ip
+[stack@client ~]$ ssh -i ~/.ssh/id_rsa debian@10.0.0.228 lsblk

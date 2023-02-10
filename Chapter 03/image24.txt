@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ echo "Show some text and value of variable $HOME"
+agonzalez@ubuntu:~$ echo "Create a file" > example.txt
+agonzalez@ubuntu:~$ echo "Append content to file" >> example.txt
+agonzalez@ubuntu:~$ cat example.txt

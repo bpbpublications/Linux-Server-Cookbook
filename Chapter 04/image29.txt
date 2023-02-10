@@ -1,0 +1,3 @@
+[root@rhel ~]# rpm -q lftp
+[root@rhel ~]# rpm -ehv lftp
+[root@rhel ~]# rpm -q lftp

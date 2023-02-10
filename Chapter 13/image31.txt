@@ -1,0 +1,2 @@
+root@ubuntu:~# docker exec -ti web /bin/bash
+root@c6812ed6469b: /usr/local/apache2# grep ^DocumentRoot conf/httpd.conf

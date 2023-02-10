@@ -1,0 +1,1 @@
+[stack@client ~]$ openstack stack create firststack -t example.yaml --parameter InstanceName=newvm --parameter KeyName=mykey --parameter ExternalNet=external --parameter PrivateNet=overlay network --parameter FlavorSize=ml.small --parameter SecurityGroup=allowssh --parameter ImageName=debianl® --parameter VolumeSize=5 --wait

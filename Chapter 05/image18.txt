@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ chmod -v 644 example.txt

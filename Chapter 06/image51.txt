@@ -1,0 +1,2 @@
+root@ubuntu:~# mount -o remount,rw /
+root@ubuntu:~# mount |grep quota

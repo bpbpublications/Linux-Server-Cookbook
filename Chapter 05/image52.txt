@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ wc /etc/legal

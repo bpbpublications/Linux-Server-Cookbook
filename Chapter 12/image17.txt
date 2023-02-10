@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ ansible -i /etc/ansible/hosts -m ping rhel
+agonzalez@ubuntu:~$ ansible -i /etc/ansible/hosts -m ping web01.example.com

@@ -1,0 +1,8 @@
+
+root@ubuntu:~/examples# ls pwd1.txt pwd3.txt
+root@ubuntu:~/examples# ls pwd1.txt pwd3.txt 2>error1.txt
+root@ubuntu:~/examples# cat error1.txt
+root@ubuntu:~/examples# ls pwd1.txt pwd3.txt 2>error2.txt >good.txt
+root@ubuntu:~/examples# cat error2.txt
+root@ubuntu:~/examples# ls pwd1.txt pwd3.txt &>everything.txt
+root@ubuntu:~/examples# cat everything.txt

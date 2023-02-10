@@ -1,0 +1,2 @@
+root@ubuntu:~# setquota -u agonzalez 200M 220M 6 0 /
+root@ubuntu:~# repquota -s /

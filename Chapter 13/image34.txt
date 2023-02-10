@@ -1,0 +1,4 @@
+root@ubuntu:~# docker inspect -f "{{ .Config.Hostname }}" web
+root@ubuntu:~# docker inspect -f "{{ .NetworkSettings.IPAddress }}" web
+root@ubuntu:~# docker inspect -f "{{ .NetworkSettings.MacAddress }}" web
+root@ubuntu:~# docker inspect -f "{{ .State.Status }}" web

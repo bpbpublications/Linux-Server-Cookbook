@@ -1,0 +1,1 @@
+root@ubuntu:/tmp# chown -R -v agonzalez:agonzalez snap/

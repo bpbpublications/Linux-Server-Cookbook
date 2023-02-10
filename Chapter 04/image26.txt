@@ -1,0 +1,1 @@
+[root@rhel ~]# rpm -ihv lftp-4.9.2-4.el9.x86_64.rpm

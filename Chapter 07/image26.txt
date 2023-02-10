@@ -1,0 +1,1 @@
+[root@rhel ~]# ping -c1 8.8.8.8

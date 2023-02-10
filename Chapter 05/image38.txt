@@ -1,0 +1,2 @@
+agonzalez@ubuntu:-$ grep -c ^$ /etc/legal
+agonzalez@ubuntu:~$ grep -v ^$ /etc/legal

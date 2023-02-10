@@ -1,0 +1,2 @@
+root@ubuntu:~# docker tag ubuntuapache2:0.1 docker.io/linuxservercb/ubuntuapache
+root@ubuntu:~# docker push docker.io/linuxservercb/ubuntuapache

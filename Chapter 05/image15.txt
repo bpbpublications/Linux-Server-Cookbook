@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ chmod -v u=rw,g=r,o= example.txt

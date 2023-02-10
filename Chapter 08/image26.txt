@@ -1,0 +1,1 @@
+root@ubuntu:~# apparmor_status |grep -v "^ "

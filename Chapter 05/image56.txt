@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ cat names1.txt
+agonzalez@ubuntu:~$ cat lastname1.txt
+agonzalez@ubuntu:~$ paste names1.txt lastname1.txt

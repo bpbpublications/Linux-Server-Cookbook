@@ -1,0 +1,1 @@
+[root@server2 ~]# fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=test --filename=test.fio --bs=4k --iodepth=64 --size=4G --readwrite=randrw --numjobs=4

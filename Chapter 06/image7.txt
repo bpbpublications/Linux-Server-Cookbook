@@ -1,0 +1,1 @@
+[root@server ~]# cat /proc/loadavg

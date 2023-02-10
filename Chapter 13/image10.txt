@@ -1,0 +1,2 @@
+root@ubuntu:~# docker logs testconsole
+root@e67b41d7cc70:/# cat /etc/debian_version

@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ umask
+agonzalez@ubuntu:~$ touch newfile
+agonzalez@ubuntu:~$ mkdir newdir
+agonzalez@ubuntu:~$ ls -ld newfile newdir

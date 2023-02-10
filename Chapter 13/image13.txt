@@ -1,0 +1,2 @@
+root@ubuntu:~# docker stop 0875fc67319c4db3b
+0875fc67319c4db3b

@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ ./example5.py
+agonzalez@ubuntu:~$ ./example5.py display root
+agonzalez@ubuntu:~$ ./example5.py show

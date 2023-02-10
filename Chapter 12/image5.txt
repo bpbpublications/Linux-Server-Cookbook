@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ ./example5.sh
+agonzalez@ubuntu:~$ ./example5.sh show
+agonzalez@ubuntu:~$ ./example5.sh show root

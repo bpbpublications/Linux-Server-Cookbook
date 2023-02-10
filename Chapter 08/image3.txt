@@ -1,0 +1,2 @@
+[root@rhel ~]# firewall-cmd --state
+[root@rhel ~]# systemctl status firewalld

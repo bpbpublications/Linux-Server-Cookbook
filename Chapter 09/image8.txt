@@ -1,0 +1,1 @@
+root@ubuntu:~# dig @localhost www.example.com

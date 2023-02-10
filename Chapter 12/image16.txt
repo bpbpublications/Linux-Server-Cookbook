@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ ansible-inventory -i /etc/ansible/hosts --list | head -12

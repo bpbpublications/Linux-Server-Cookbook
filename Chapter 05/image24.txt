@@ -1,0 +1,2 @@
+ 
+root@ubuntu:~# tail -n5 -f /var/log/syslog

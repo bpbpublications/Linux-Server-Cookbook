@@ -1,0 +1,2 @@
+[root@rhel ~]# nmcli c a type vlan con-name vlan10 ifname vlan10 dev enp8s0 id 10
+[root@rhel ~]# nmcli con show vlanl10 | grep -i ^vlan

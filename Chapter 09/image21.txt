@@ -1,0 +1,1 @@
+root@ubuntu:~# ssh-keygen -t rsa

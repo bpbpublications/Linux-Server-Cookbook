@@ -1,0 +1,3 @@
+testuser@ubuntu:~$ groups
+testuser@ubuntu:~$ newgrp writers
+testuser@ubuntu:~$ groups

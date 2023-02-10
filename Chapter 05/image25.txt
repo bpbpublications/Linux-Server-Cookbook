@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ ls filename with spaces
+agonzalez@ubuntu:~$ ls -l "filename with spaces"
+agonzalez@ubuntu:~$ ls -l filename\ with\ spaces

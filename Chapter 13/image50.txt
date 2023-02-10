@@ -1,0 +1,1 @@
+[root@server ~]# skopeo inspect docker://docker.io/linuxservercb/ubuntuapache:latest

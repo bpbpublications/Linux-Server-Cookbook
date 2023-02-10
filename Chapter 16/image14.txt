@@ -1,0 +1,2 @@
+[stack@client ~]$ openstack network create overlay network
+[stack@client ~]$ openstack subnet create sub_overlay network --network overlay network --subnet-range 172.16.0.0/24

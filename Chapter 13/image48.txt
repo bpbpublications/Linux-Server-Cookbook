@@ -1,0 +1,1 @@
+[root@server ~]# podman run -dti -p 80:80 httpd

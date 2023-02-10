@@ -1,0 +1,1 @@
+root@ubuntu:~# docker events --since '2022-10-30T720:56:37' --filter type=image

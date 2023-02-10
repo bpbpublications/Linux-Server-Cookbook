@@ -1,0 +1,1 @@
+root@ubuntu:~# dig +trace A www.ubuntu.com

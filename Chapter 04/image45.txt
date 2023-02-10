@@ -1,0 +1,1 @@
+root@ubuntu:~# dpkg -S /etc/sudo.conf

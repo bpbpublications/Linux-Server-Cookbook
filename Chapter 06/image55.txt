@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ dd if=/dev/random of=file300M bs=4M count=60

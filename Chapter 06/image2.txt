@@ -1,0 +1,1 @@
+[root@server ~]# lscpu|grep --color=never -E "^(CPU\(|Thread|Core|Socket|NUMA)"

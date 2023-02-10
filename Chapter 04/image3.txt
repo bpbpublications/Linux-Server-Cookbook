@@ -1,0 +1,4 @@
+ 
+
+root@ubuntu:~# useradd -c "Test User" -G syslog -m testuser
+root@ubuntu:~# id testuser

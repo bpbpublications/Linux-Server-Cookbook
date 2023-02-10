@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ pidof top
+agonzalez@ubuntu:~$ ps -ef -q $(pidof top)

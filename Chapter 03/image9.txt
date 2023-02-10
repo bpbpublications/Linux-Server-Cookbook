@@ -1,0 +1,6 @@
+root@ubuntu:/tmp# pwd
+root@ubuntu:/tmp# cd
+root@ubuntu:~# pwd
+root@ubuntu:~# cd examples/
+root@ubuntu:~/examples# cd /tmp/
+root@ubuntu:/tmp# cd -

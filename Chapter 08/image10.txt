@@ -1,0 +1,2 @@
+root@ubuntu:~# ufw status
+root@ubuntu:~# ufw enable

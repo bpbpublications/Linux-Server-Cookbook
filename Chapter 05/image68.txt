@@ -1,0 +1,1 @@
+agonzalez@ubuntu:~$ ps -l -q $(pidof top)

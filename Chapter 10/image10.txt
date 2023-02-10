@@ -1,0 +1,2 @@
+root@ubuntu:~# pdbedit -L
+root@ubuntu:~# pdbedit -L -v

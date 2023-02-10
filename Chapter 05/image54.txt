@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ cat uniq.txt
+agonzalez@ubuntu:~$ cat uniq.txt | sort | uniq

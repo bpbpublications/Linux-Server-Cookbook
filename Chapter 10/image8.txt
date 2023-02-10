@@ -1,0 +1,1 @@
+root@ubuntu:~# testparm -v /etc/samba/smb.conf

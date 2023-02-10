@@ -1,0 +1,2 @@
+[stack@client ~]$ ssh -i ~/.ssh/id_rsa debian@10.0.0.225
+debian@myfirstvm:~$

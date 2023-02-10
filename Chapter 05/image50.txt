@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ cat /etc/hostname
+agonzalez@ubuntu:~$ cat /etc/hostname | sed 's/example.com/localdomain/'

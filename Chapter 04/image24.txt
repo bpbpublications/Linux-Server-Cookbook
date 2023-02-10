@@ -1,0 +1,1 @@
+[root@rhel ~]# rpm -gp python3-netaddr-0.8.0-5.el9.noarch.rpm --requires

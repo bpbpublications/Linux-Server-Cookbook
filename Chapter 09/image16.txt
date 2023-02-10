@@ -1,0 +1,4 @@
+root@ubuntu:~# nslookup
+> server localhost
+> set type=NS
+> example.com

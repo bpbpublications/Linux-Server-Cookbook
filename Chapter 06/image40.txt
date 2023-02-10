@@ -1,0 +1,1 @@
+[root@server2 ~]# vgdisplay 2>/dev/null

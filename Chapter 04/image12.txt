@@ -1,0 +1,2 @@
+root@ubuntu:~# chage -d 0 testuser
+root@ubuntu:~# chage -l testuser

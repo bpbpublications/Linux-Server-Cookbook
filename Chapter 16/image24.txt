@@ -1,0 +1,2 @@
+[stack@client ~]$ openstack volume create --size 10 firstvolume
+[stack@client ~]$ openstack server add volume myfirstvm firstvolume

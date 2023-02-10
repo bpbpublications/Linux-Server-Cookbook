@@ -1,0 +1,2 @@
+root@ubuntu:~# docker inspect mywebserver | grep -m1 '"IPAddress"'
+"IPAddress": "172.17.0.2",

@@ -1,0 +1,1 @@
+root@ubuntu:~# ssh-copy-id agonzalez@192.168.122.226

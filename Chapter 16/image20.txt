@@ -1,0 +1,1 @@
+[stack@client ~]$ openstack server list -c Name -c Status -c Networks -c Image

@@ -1,0 +1,2 @@
+root@ubuntu:~# docker run --name testconsole -ti debian /bin/bash
+root@e67b41d7cc70:/# cat /etc/debian_version

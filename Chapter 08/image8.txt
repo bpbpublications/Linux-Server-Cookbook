@@ -1,0 +1,4 @@
+[root@rhel ~]# firewall-cmd --add-service=http --permanent
+[root@rhel ~]# firewall-cmd --list-all |grep services
+[root@rhel ~]# firewall-cmd --reload
+[root@rhel ~]# firewall-cmd --list-all |grep services

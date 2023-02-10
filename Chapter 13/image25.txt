@@ -1,0 +1,2 @@
+root@ubuntu:~# docker rename mywebserver4 web04
+root@ubuntu:~# docker ps -l

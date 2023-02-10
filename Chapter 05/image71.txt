@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ renice -n 16 $(pidof sleep)
+agonzalez@ubuntu:~$ ps -l -q $(pidof sleep)

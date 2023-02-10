@@ -1,0 +1,7 @@
+ 
+
+root@ubuntu:~# hostname
+root@ubuntu:~# hostname --short
+root@ubuntu:~# hostname --long
+root@ubuntu:~# hostname -i
+root@ubuntu:~# hostname -I

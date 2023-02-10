@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ cat text
+agonzalez@ubuntu:~$ grep -E ro*t text

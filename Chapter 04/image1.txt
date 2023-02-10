@@ -1,0 +1,5 @@
+agonzalez@ubuntu:~$ id
+agonzalez@ubuntu:~$ id root
+agonzalez@ubuntu:~$ id -u
+agonzalez@ubuntu:~$ id -g
+agonzalez@ubuntu:~$ id -G

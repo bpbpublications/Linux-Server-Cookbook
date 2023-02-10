@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ nice -n 15 sleep 600 &
+agonzalez@ubuntu:~$ ps -l -q $(pidof sleep)

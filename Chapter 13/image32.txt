@@ -1,0 +1,2 @@
+root@ubuntu:~# docker export web -o web.tar
+root@ubuntu:~# ls -lh web.tar

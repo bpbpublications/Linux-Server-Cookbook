@@ -1,0 +1,1 @@
+[stack@client ~]$ openstack network create external --share --external --provider-physical-network datacentre --provider-network-type flat

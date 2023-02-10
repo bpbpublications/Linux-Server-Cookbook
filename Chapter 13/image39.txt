@@ -1,0 +1,3 @@
+root@ubuntu:~# docker commit mywebserver3
+root@ubuntu:~# docker tag 619992f2la8e imagewebserver3:0.1
+root@ubuntu:~# docker images | head -2

@@ -1,0 +1,1 @@
+root@ubuntu:~/ec2instance# curl 18.159.48.0

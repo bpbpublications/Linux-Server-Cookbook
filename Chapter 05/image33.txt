@@ -1,0 +1,6 @@
+agonzalez@ubuntu:~$ failcommand || echo "First command failed"
+agonzalez@ubuntu:~$ echo "Good command" || echo "This is never executed"
+agonzalez@ubuntu:~$ failcommand && echo "This is never executed"
+agonzalez@ubuntu:~$ echo "Good command" && echo "First command succeeded"
+agonzalez@ubuntu:~$ ls -l -b.txt
+agonzalez@ubuntu:~$ ls -l -- -b.txt

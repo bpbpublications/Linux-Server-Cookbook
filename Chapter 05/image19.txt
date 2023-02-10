@@ -1,0 +1,4 @@
+agonzalez@ubuntu:~$ stat -c "%a %A" appl
+agonzalez@ubuntu:~$ ./app1
+agonzalez@ubuntu:~$ chmod -v u+x app1
+agonzalez@ubuntu:~$ ./app1

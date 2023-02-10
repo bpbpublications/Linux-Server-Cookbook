@@ -1,0 +1,2 @@
+agonzalez@ansible:~/ag$ ansible-galaxy role install geerlingguy.apache -p roles/
+agonzalez@ansible:~/ag$ ansible-galaxy collection install community.postgresql -p ansible_collections/

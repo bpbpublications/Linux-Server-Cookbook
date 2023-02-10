@@ -1,0 +1,4 @@
+[agonzalez@rhel exported]$ groups
+[agonzalez@rhel exported]$ ls -ld /exported/
+[agonzalez@rhel exported]$ touch newfile
+[agonzalez@rhel exported]$ ls -l

@@ -1,0 +1,3 @@
+agonzalez@ubuntu:~$ 1s -ld regulardir/ regulardir/*
+agonzalez@ubuntu:~$ chmod -v a-x regulardir/
+agonzalez@ubuntu:~$ ls -ld regulardir/ regulardir/*

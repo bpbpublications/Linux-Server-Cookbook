@@ -1,0 +1,1 @@
+agonzalez@ansible:~/playbooks$ ansible-playbook playbook2.yaml --start-at-task "Show a message" --extra-vars firstname=John

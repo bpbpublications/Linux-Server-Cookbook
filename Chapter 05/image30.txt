@@ -1,0 +1,2 @@
+agonzalez@ubuntu:~$ ls /etc/passwd /etc/shadow /etc/group
+agonzalez@ubuntu:~$ ls /etc/{passwd,shadow,group}

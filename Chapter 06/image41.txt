@@ -1,0 +1,1 @@
+[root@server2 ~]# pvdisplay 2>/dev/null

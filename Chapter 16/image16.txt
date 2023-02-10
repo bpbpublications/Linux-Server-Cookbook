@@ -1,0 +1,2 @@
+[stack@client ~]$ openstack router set --external-gateway external router_private
+[stack@client ~]$ openstack router add subnet router private sub_overlay network

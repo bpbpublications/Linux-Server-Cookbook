@@ -1,0 +1,1 @@
+[root@server ~]# iostat -d 10 3 -y

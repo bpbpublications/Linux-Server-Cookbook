@@ -1,0 +1,2 @@
+[stack@client ~]$ openstack security group create allowssh -c id
+[stack@client ~]$ openstack security group rule create --ingress  --ethertype IPv4 --protocol tcp --dst-port 22 allowssh -c id

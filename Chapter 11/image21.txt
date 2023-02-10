@@ -1,0 +1,2 @@
+MariaDB [(none)]> SELECT USER();
+MariaDB [(none)]> SHOW DATABASES;

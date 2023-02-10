@@ -1,0 +1,2 @@
+root@ubuntu:~# docker import web.tar mywebimage:0.1
+root@ubuntu:~# docker run -ti mywebimage:0.1 /usr/local/apache2/bin/httpd -v

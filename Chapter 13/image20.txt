@@ -1,0 +1,2 @@
+root@ubuntu:~# docker run --publish 8080:80 --name mywebserver3 -dti httpd
+root@ubuntu:~# curl http://192.168.122.43:8080

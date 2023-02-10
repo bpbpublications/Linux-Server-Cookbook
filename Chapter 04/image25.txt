@@ -1,0 +1,1 @@
+[root@rhel ~]# rpm -ql grub2-pc

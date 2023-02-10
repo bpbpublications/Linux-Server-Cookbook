@@ -1,0 +1,1 @@
+school> db.school.students.updateOne({ name: 'Jane' }, { $set: { idcard: "A98765" }})

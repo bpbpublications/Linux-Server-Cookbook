@@ -1,0 +1,5 @@
+$ cd etc/
+$ add resolv.conf
+$ add services
+$ lsmark
+$ done

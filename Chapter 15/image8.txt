@@ -1,0 +1,1 @@
+root@ubuntu:~/azureinstance# curl 172.173.177.139

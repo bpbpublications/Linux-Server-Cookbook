@@ -1,0 +1,2 @@
+root@ubuntu:~# mariadb-admin shutdown
+root@ubuntu:~# mariadb-admin ping

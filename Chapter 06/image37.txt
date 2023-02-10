@@ -1,0 +1,1 @@
+[root@server2 ~]# smartctl -A /dev/nvme0n1
